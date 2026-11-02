@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+CLAUDE.md
+tuik_bilgi_edinme_basvurusu.md
+strip_tr.py
